@@ -1,5 +1,8 @@
 {
+  "framework": "parcel",
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
-  "framework": "parcel"
+  "installCommand": "npm install"
 }
+
+
