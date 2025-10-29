@@ -1,12 +1,15 @@
 {
-  "name": "day19",
+  "name": "swiggy-clone",
   "version": "1.0.0",
+  "type": "module",
   "description": "",
   "scripts": {
     "build": "parcel build src/index.html --public-url ./",
-    "start": "parcel src/index.html"
+    "start": "parcel src/index.html",
+    "dev": "parcel src/index.html",
+    "predeploy": "npm run build"
   },
-  "keywords": [],
+  "keywords": ["react", "parcel", "swiggy-clone"],
   "author": "",
   "license": "ISC",
   "dependencies": {
@@ -23,5 +26,9 @@
     "autoprefixer": "^10.4.21",
     "process": "^0.11.10",
     "tailwindcss": "^4.1.16"
-  }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
 }
