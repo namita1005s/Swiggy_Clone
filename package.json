@@ -1,11 +1,10 @@
-
- {
+{
   "name": "swiggy-clone",
   "version": "1.0.0",
   "type": "module",
   "description": "",
   "scripts": {
-    "build": "parcel build day25/src/index.html --public-url ./",
+    "build": "parcel build day25/src/index.html --public-url ./ --dist-dir day25/src/dist",
     "start": "parcel day25/src/index.html",
     "dev": "parcel day25/src/index.html",
     "predeploy": "npm run build"
