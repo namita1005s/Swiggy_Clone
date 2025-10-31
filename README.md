@@ -59,8 +59,8 @@ npx parcel src/index.html
 http://localhost:1234/
 
 ## Screenshots
+<img width="3532" height="7368" alt="swiggy-clone-sable-delta vercel app_" src="https://github.com/user-attachments/assets/4b1a7719-4a3c-481d-8ece-8a45a6e16bc7" />
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
 ## Support
