@@ -4,7 +4,7 @@
   "type": "module",
   "description": "",
   "scripts": {
-   "build": "parcel build day25/src/index.html --public-url ./",
+    "build": "parcel build day25/src/index.html --public-url ./ --no-scope-hoist",
     "start": "parcel day25/src/index.html", 
     "dev": "parcel day25/src/index.html"
   },
