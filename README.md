@@ -1,6 +1,13 @@
 
 # 🛵 Swiggy Clone Website  
 
+## 🔗 Live Demo
+
+Check out the deployed demo here:  
+👉 [**Open Demo**](https://swiggy-clone-sable-delta.vercel.app)
+
+
+
 ## 🍔 Overview  
 The **Swiggy Clone Website** is a frontend web application created using **React.js**.  
 It replicates the real **Swiggy UI and experience**, allowing users to explore restaurants, check menus, and manage a shopping cart — all using **live data from Swiggy’s API (via Network Tab)**.  
