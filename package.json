@@ -4,10 +4,9 @@
   "type": "module",
   "description": "",
   "scripts": {
-    "build": "parcel build day25/src/index.html --public-url ./ --dist-dir public",
+    "build": "parcel build day25/src/index.html --public-url ./",
     "start": "parcel day25/src/index.html",
-    "dev": "parcel day25/src/index.html",
-    "predeploy": "npm run build"
+    "dev": "parcel day25/src/index.html"
   },
   "keywords": ["react", "parcel", "swiggy-clone"],
   "author": "",
