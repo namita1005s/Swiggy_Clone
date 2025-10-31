@@ -5,6 +5,9 @@
 
 Check out the deployed demo here:  
 👉 [**Open Demo**](https://swiggy-clone-sable-delta.vercel.app)
+<img width="3532" height="4108" alt="swiggy-clone-sable-delta vercel app_restaurant" src="https://github.com/user-attachments/assets/2d9e9ceb-2513-4c7a-b6ba-9a9e55e80e1b" />
+
+
 
 
 
