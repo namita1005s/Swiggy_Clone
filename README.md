@@ -60,12 +60,33 @@ npx parcel src/index.html
 # 🔗 Open in your browser
 http://localhost:1234/
 
-## 🖼️ Screenshots
+## 🖼️ Screenshots  
 
-![Swiggy Clone Screenshot](https://github.com/user-attachments/assets/4b1a7719-4a3c-481d-8ece-8a45a6e16bc7)
-![FOOD DELIVARY FROM RESTRAUNTS PAGE](https://github.com/user-attachments/assets/2d9e9ceb-2513-4c7a-b6ba-9a9e55e80e1b)
-![menu page ](https://github.com/user-attachments/assets/3a837dbb-2689-4d36-8a04-a263254e298a)
-![order page](https://github.com/user-attachments/assets/05a24bde-4667-4d96-9528-6b81e2e2aaad)
+### 🏠 Home Page  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4b1a7719-4a3c-481d-8ece-8a45a6e16bc7" alt="Swiggy Clone Home Page" width="800">
+</p>
+
+---
+
+### 🍴 Restaurant Listing Page  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2d9e9ceb-2513-4c7a-b6ba-9a9e55e80e1b" alt="Food Delivery From Restaurants Page" width="800">
+</p>
+
+---
+
+### 📋 Menu Page  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3a837dbb-2689-4d36-8a04-a263254e298a" alt="Menu Page" width="800">
+</p>
+
+---
+
+### 🛒 Order / Cart Page  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/05a24bde-4667-4d96-9528-6b81e2e2aaad" alt="Order Page" width="800">
+</p>
 
 
 
